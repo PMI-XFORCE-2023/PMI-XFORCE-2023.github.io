@@ -16,33 +16,22 @@ The application is built using:
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
 
-<img src="./images/Bowfolios-Current.gif">
+<img src="./images/">
 
 ### Landing Page
-<img src="./images/onboarding.gif">
+<img src="./images/">
 
 ### Projects
 
-<img src="./images/projects.gif">
+<img src="./images/">
 
 ### Add Project
 
-<img src="./images/addProject.gif">
+<img src="./images/">
 
 ### Interests
-<img src="./images/interests.gif">
+<img src="./images/">
 
-### People
-<img src="./images/people.gif">
-
-### Filter
-<img src="./images/filter.gif">
-
-### Edit Profile
-<img src="./images/editProfile.gif">
-
-### Sign in Redirection
-<img src="./images/signout.gif">
 
 
 ## Developer Guide
@@ -65,11 +54,9 @@ Our database is similar to the one implemented in [bowfolios](https://bowfolios.
 
 To track our progress via Milestones:
 - [Milestone 1](https://github.com/crypto-cats/bowfolios-mobile/projects/2)
-- [Milestone 2](https://github.com/crypto-cats/bowfolios-mobile/projects/3)
-- [Milestone 3](https://github.com/crypto-cats/bowfolios-mobile/projects/4)
 
 
-### Milestone 1: Mockup Ups
+### Milestone 1: 
 The goal of Milestone 1 was to complete the UI implementation for the screens.
 - Onboarding
 - Profile
@@ -81,7 +68,7 @@ The goal of Milestone 1 was to complete the UI implementation for the screens.
 
 _Note:_ To access our repo, please contact one of the developers as it is currently private.
 
-### Milestone 2: Database Integrations
+### Milestone 2: 
 The goal of Milestone 2 was to integrate the database so the pages read in from Firebase. The following pages now read in the data:
 - Signin / Registration works
 - Interests
@@ -91,19 +78,19 @@ The goal of Milestone 2 was to integrate the database so the pages read in from 
 
 **To see which issues have been finished during M2, please click: [Milestone 2](https://github.com/crypto-cats/bowfolios-mobile/projects/3)**
 
-### Milestone 3: Clean Up
-The goal of Milestone 3 clean up the UI and fix any bugs that may have arose.
-**To see which issues have been finished during M2, please click: [Milestone 3](https://github.com/crypto-cats/bowfolios-mobile/projects/4)**
+### Milestone 3:
 
 
 ## Developers
 Here are the people who worked on this project:
 
-Eric Rivera: Find his Github <a href = "https://github.com/eric5rivera">here.</a> 
+Hangbo Zhang: Find his Github <a href = "https://github.com/hangbozhang">here.</a> 
 
-Jennifer Hsu: Find her Github <a href = "http://jhsup.github.io/">here.</a> 
+Trevor Kansaki: Find his Github <a href = "https://github.com/tkansaki">here.</a> 
 
-Pauline Peihan Wu: Find her Github <a href = "https://github.com/Pauline-Peihan-Wu/">here.</a> 
+Pauline Peihan Wu: Find her Github <a href = "https://github.com/Pauline-Peihan-Wu">here.</a> 
+
+Thane Luna: Find his Github <a href = "https://github.com/Thaneluna">here.</a> 
 
 
 
