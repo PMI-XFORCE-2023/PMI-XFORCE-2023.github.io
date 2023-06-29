@@ -7,11 +7,10 @@
 
 ## Overview
 
-Bowfolios-Mobile is a mobile version of [Bowfolios](https://bowfolios.github.io/). 
+PMI-XFORCE-2023 is an Aircraft Phase Maintenance Project Management system that allows the organization to schedule, monitor, adjust, and analyze multiple maintenance phases over the year. 
 The application is built using:
-- [React Native](https://reactnative.dev/) for component-based UI implementation and routing.
-- [Native Base](https://nativebase.io/) framework for UI
-- [Firebase](https://firebase.google.com/) for database
+- [React](https://react.dev/) and [JavaScript](https://www.javascript.com/) for component-based UI implementation and routing.
+- [MongoDB](https://www.mongodb.com/) for database
 
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
@@ -35,20 +34,16 @@ This section provides a walkthrough of our interface and its current capabilitie
 
 
 ## Developer Guide
-1. Download a copy of bowfolios-mobile. You can download either using Github Desktop (recommended
+1. Download a copy of PMI-XFORCE-2023. You can download either using Github Desktop (recommended
 ) or by extracting the .zip. As the repo is currently private, please contact one of the
  developers to get the download.
 
 2. Run ``npm install`` to install the dependencies.
 
-3. You can run the project in two ways, using an emulator ([Android Emulator](https://developer.android.com/studio)) or through Expo.
+3. You can run the project in local or on the private server.
 
 ### Database Model
-For our database we used Firebase real-time storage and Firebase's Auth API to handle
- authentication for user creation and login.
 
-Our database is similar to the one implemented in [bowfolios](https://bowfolios.github.io/), where we provided pair-wise relations for all 3 primary collections: Profiles, Projects, and
- Interests. They were connected through primary keys such as email, project name, and interest name.
 
 ## Project Development History
 
