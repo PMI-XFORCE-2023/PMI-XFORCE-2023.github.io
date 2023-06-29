@@ -48,7 +48,7 @@ This section provides a walkthrough of our interface and its current capabilitie
 ## Project Development History
 
 To track our progress via Milestones:
-- [Milestone 1](https://github.com/crypto-cats/bowfolios-mobile/projects/2)
+- [Milestone 1](https://github.com/)
 
 
 ### Milestone 1: 
@@ -59,7 +59,7 @@ The goal of Milestone 1 was to complete the UI implementation for the screens.
 - Interests
 - Projects
 
-**To see which issues have been finished during M1, please click: [Milestone 1](https://github.com/crypto-cats/bowfolios-mobile/projects/2)**
+**To see which issues have been finished during M1, please click: [Milestone 1](https://github.com/)**
 
 _Note:_ To access our repo, please contact one of the developers as it is currently private.
 
@@ -71,7 +71,7 @@ The goal of Milestone 2 was to integrate the database so the pages read in from 
 - Prople
 - Add Project
 
-**To see which issues have been finished during M2, please click: [Milestone 2](https://github.com/crypto-cats/bowfolios-mobile/projects/3)**
+**To see which issues have been finished during M2, please click: [Milestone 2](https://github.com/)**
 
 ### Milestone 3:
 
