@@ -8,6 +8,7 @@
 ## Overview
 
 PMI-XFORCE-2023 is an Aircraft Phase Maintenance Project Management system that allows the organization to schedule, monitor, adjust, and analyze multiple maintenance phases over the year. 
+
 The application is built using:
 - [React](https://react.dev/) and [JavaScript](https://www.javascript.com/) for component-based UI implementation and routing.
 - [MongoDB](https://www.mongodb.com/) for database
@@ -38,43 +39,46 @@ This section provides a walkthrough of our interface and its current capabilitie
 ) or by extracting the .zip. As the repo is currently private, please contact one of the
  developers to get the download.
 
-2. Run ``npm install`` to install the dependencies.
+2. Run ``meteor npm install`` to install the dependencies.
 
-3. You can run the project in local or on the private server.
+3. Then run ``meteor npm run start`` to build the application and view it.
+
+4. First time running it might take a while to build it.
+
+5. You can run the project in local or on the private server.
 
 ### Database Model
-
+Will update soon
 
 ## Project Development History
 
-To track our progress via Milestones:
-- [Milestone 1](https://github.com/)
+To track our progress here based on the issues we completed weekly:
+- [Week 3](https://github.com/orgs/PMI-XFORCE-2023/projects/10/views/1)
+- [Week 4](https://github.com/orgs/PMI-XFORCE-2023/projects/11/views/1)
 
 
-### Milestone 1: 
-The goal of Milestone 1 was to complete the UI implementation for the screens.
-- Onboarding
-- Profile
-- Signin / Signup
-- Interests
-- Projects
+### Week 3: 
+The goal of Week 3:
+- Creating the default template for one.
+- Then the following days creating at least the ui for the login page.
+- By the end of this week at least find a module to use to build a calendar.
 
-**To see which issues have been finished during M1, please click: [Milestone 1](https://github.com/)**
+**To see which issues have been finished during M1, please click: [Week 3](https://github.com/PMI-XFORCE-2023/PMI-XFORCE-2023/issues?q=is%3Aissue+milestone%3A%22Week+3%22+is%3Aclosed)**
 
 _Note:_ To access our repo, please contact one of the developers as it is currently private.
 
-### Milestone 2: 
-The goal of Milestone 2 was to integrate the database so the pages read in from Firebase. The following pages now read in the data:
-- Signin / Registration works
-- Interests
-- Projects
-- Prople
-- Add Project
+### Week 4: 
+The goal of Week 4:
+- calendar views
+- landing page and admin pages
+- general user pages
+- Tools to wrap the webapp into desktop app (research)
+- add github.io page for documentations
 
-**To see which issues have been finished during M2, please click: [Milestone 2](https://github.com/)**
+**To see which issues have been finished during M2, please click: [Week 4](https://github.com/orgs/PMI-XFORCE-2023/projects/11/views/1)**
 
-### Milestone 3:
-
+### Week 5:
+Will update soon
 
 ## Developers
 Here are the people who worked on this project:
