@@ -16,10 +16,8 @@ The application is built using:
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. 
 
-<img src="./images/">
-
 ### Landing Page
-<img src="./images/">
+<img src="./images/Landing-page.png">
 
 ### Projects
 
