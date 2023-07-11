@@ -76,7 +76,13 @@ The goal of Week 4:
 **To see which issues have been finished during M2, please click: [Week 4](https://github.com/orgs/PMI-XFORCE-2023/projects/11/views/1)**
 
 ### Week 5:
-Will update soon
+The goal of week 5:
+- Weekly View completed
+- Popup module for weekly view draft completed
+- Tests updated
+- Monthly view and event display completed
+
+**To see which issues have been finished during M3, please click [Week 5](https://github.com/orgs/PMI-XFORCE-2023/projects/13)**
 
 ## Developers
 Here are the people who worked on this project:
