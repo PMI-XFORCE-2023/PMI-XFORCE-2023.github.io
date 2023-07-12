@@ -53,8 +53,8 @@ Will update soon
 To track our progress here based on the issues we completed weekly:
 - [Week 3](https://github.com/orgs/PMI-XFORCE-2023/projects/10/views/1)
 - [Week 4](https://github.com/orgs/PMI-XFORCE-2023/projects/11/views/1)
-- [Week 5](https://github.com/orgs/PMI-XFORCE-2023/projects/12/views/1)
-- [Week 6](https://github.com/orgs/PMI-XFORCE-2023/projects/13/views/1)
+- [Week 5](https://github.com/orgs/PMI-XFORCE-2023/projects/13/views/1)
+- [Week 6](https://github.com/orgs/PMI-XFORCE-2023/projects/14/views/1)
 
 
 ### Week 3: 
@@ -63,7 +63,7 @@ The goal of Week 3:
 - Then the following days creating at least the ui for the login page.
 - By the end of this week at least find a module to use to build a calendar.
 
-**To see which issues have been finished during M1, please click: [Week 3](https://github.com/PMI-XFORCE-2023/PMI-XFORCE-2023/issues?q=is%3Aissue+milestone%3A%22Week+3%22+is%3Aclosed)**
+**To see which issues have been finished during M1, please click: [Week 3](https://github.com/orgs/PMI-XFORCE-2023/projects/10/views/1)**
 
 _Note:_ To access our repo, please contact one of the developers as it is currently private.
 
@@ -84,11 +84,13 @@ The goal of week 5:
 - Tests updated
 - Monthly view and event display completed
 
-**To see which issues have been finished during M3, please click [Week 5](https://github.com/orgs/PMI-XFORCE-2023/projects/13)**
+**To see which issues have been finished during M3, please click [Week 5](https://github.com/orgs/PMI-XFORCE-2023/projects/13/views/1)**
 
 ### Week 6:
 The goal of week 6:
-- 
+- Working on the task data
+
+**To see which issues have been finished during M3, please click [Week 6](https://github.com/orgs/PMI-XFORCE-2023/projects/14/views/1)**
 
 ## Developers
 Here are the people who worked on this project:
