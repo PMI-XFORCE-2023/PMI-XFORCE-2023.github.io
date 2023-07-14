@@ -88,7 +88,10 @@ The goal of week 5:
 
 ### Week 6:
 The goal of week 6:
-- Working on the task data
+- add way to edit phase lane events for the yearly and monthly views
+- create more tables (data)
+- establish the relation between each table
+- access control implementation
 
 **To see which issues have been finished during M3, please click [Week 6](https://github.com/orgs/PMI-XFORCE-2023/projects/14/views/1)**
 
