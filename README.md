@@ -37,13 +37,27 @@ This section provides a walkthrough of our interface and its current capabilitie
 ) or by extracting the .zip. As the repo is currently private, please contact one of the
  developers to get the download.
 
-2. Run ``meteor npm install`` to install the dependencies.
+2. Make sure you have Node.js and Meteor installed on your local computer. If not, please install it before you start this project.
 
-3. Then run ``meteor npm run start`` to build the application and view it.
+3. Another important note, make sure your Node.js version is between 10-14. Downgrade your version if it is too high. Otherwise, you will not able to run this project succesfully.
 
-4. First time running it might take a while to build it.
+4. Once you have all the software installed, you can open the project in an code editor.
 
-5. You can run the project in local or on the private server.
+5. Then open a terminal, nevigate to where the project is.
+
+6. Type ``cd app`` to change directory into the application.
+
+7. Run ``meteor npm install`` to install the dependencies.
+
+8. Then run ``meteor npm run start`` to build the application and view it.
+
+9. Once it is successfully build, you can go to your browser, and type in ``http://localhost:3000/``to view the application.
+
+10. To stop the project, simply press``control-C`` twice in the terminal.
+
+11. First time running it might take a while to build it.
+
+12. You can run the project in local or on the private server.
 
 ### Database Model
 Will update soon
