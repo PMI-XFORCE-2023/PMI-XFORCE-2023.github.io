@@ -127,6 +127,17 @@ The goal of week 8:
 
 **To see which issues have been finished during Week 8, please click [Week 8](https://github.com/orgs/PMI-XFORCE-2023/projects/17/views/1)**
 
+### Week 9:
+The goal of week 9:
+- Complete testing
+- To add drag and drop functionality to week view
+- Finish the presentation for next week (Send the recording by Friday)
+- Finish the access control, user dashboard
+- Make sure the daily/weekly/monthly/yearly views all meet the sponsors' needs
+- Make sure the GitHub.io page is up to date with everything we have developed so far.
+
+**To see which issues have been finished during Week 9, please click [Week 8](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)**
+
 ## Developers
 Here are the people who worked on this project:
 
