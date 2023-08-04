@@ -71,6 +71,7 @@ To track our progress here based on the issues we completed weekly:
 - [Week 6](https://github.com/orgs/PMI-XFORCE-2023/projects/14/views/1)
 - [Week 7](https://github.com/orgs/PMI-XFORCE-2023/projects/16/views/1)
 - [Week 8](https://github.com/orgs/PMI-XFORCE-2023/projects/17/views/1)
+- [Week 9](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)
 
 
 ### Week 3: 
@@ -136,7 +137,7 @@ The goal of week 9:
 - Make sure the daily/weekly/monthly/yearly views all meet the sponsors' needs
 - Make sure the GitHub.io page is up to date with everything we have developed so far.
 
-**To see which issues have been finished during Week 9, please click [Week 8](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)**
+**To see which issues have been finished during Week 9, please click [Week 9](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)**
 
 ## Developers
 Here are the people who worked on this project:
