@@ -19,16 +19,18 @@ This section provides a walkthrough of our interface and its current capabilitie
 ### Landing Page
 <img src="./images/Landing-page.png">
 
-### Projects
+### SignUp Page
 
 <img src="./images/">
 
-### Add Project
+### SignIn Page
 
 <img src="./images/">
 
-### Interests
+### Admin User Pages
 <img src="./images/">
+
+### General User Pages
 
 
 
@@ -138,6 +140,15 @@ The goal of week 9:
 - Make sure the GitHub.io page is up to date with everything we have developed so far.
 
 **To see which issues have been finished during Week 9, please click [Week 9](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)**
+
+### Week 10:
+The goal of Week 10:
+- Complete all the exsiting tasks
+- Finish any needed testing for the application
+- Finish documenting all the pages of the application
+- Clean up work for anything as needed
+
+**To see which issues have been finished during Week 10, please click [Week 10](https://github.com/orgs/PMI-XFORCE-2023/projects/19/views/1)**
 
 ## Developers
 Here are the people who worked on this project:
