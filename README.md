@@ -74,6 +74,7 @@ To track our progress here based on the issues we completed weekly:
 - [Week 7](https://github.com/orgs/PMI-XFORCE-2023/projects/16/views/1)
 - [Week 8](https://github.com/orgs/PMI-XFORCE-2023/projects/17/views/1)
 - [Week 9](https://github.com/orgs/PMI-XFORCE-2023/projects/18/views/1)
+- [Week 10](https://github.com/orgs/PMI-XFORCE-2023/projects/19/views/1)
 
 
 ### Week 3: 
