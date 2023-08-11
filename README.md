@@ -4,6 +4,7 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#project-development-history)
 * [Deploy the App](#deploy-the-app)
+* [MongoDB Database](#mongodb-database-inspect-and-control)
 * [Developers](#developers)
 
 ## Overview
@@ -19,10 +20,12 @@ This section provides a walkthrough of our interface and its current capabilitie
 
 ### Landing Page
 <img src="./images/Landing-page.png">
+Start Here will lead to sign in page.
 
 ### SignUp Page
 
 <img src="./images/signup.png">
+User will sign up with default access level of AL0 which will need the Admin or AL3 to change after sign up.
 
 ### SignIn Page
 
@@ -31,22 +34,27 @@ This section provides a walkthrough of our interface and its current capabilitie
 ### Admin User Pages
 
 <img src="./images/admin-page.png">
+Admin is mainly to manage the database, adding, editing, removing different data points and assign different access level to users.
 
 ### General User Pages (with access level 0)
 
 <img src="./images/al0.png">
+General User that only has access level 0 will allow to view the calendar only.
 
 ### AL1 User Pages
 
 <img src="./images/al1.png">
+Access level 1 user can create a team and list all team members.
 
 ### AL2 User Pages
 
 <img src="./images/al2.png">
+Access level 2 user can also edit and list the phase lanes
 
 ### AL3 User Pages
 
 <img src="./images/al3.png">
+Access level 3 user have all the admin access.
 
 ### Listing Pages (Only for Admin and AL3)
 
@@ -375,6 +383,33 @@ Having two deployments running simultaneously will create really strange, diffic
 To avoid this situation entirely, make sure that if you change the name of your application in mup.js, you run ``mup stop`` first. That way, mup will terminate the process running under the original name, so that when you run ``mup deploy`` after editing mup.js, there will only be one deployed application.
 
 If you are in the situation where there are two deployments running simultaneously, it’s easy to fix. First, edit mup.js to restore the original name, then run ``mup stop`` to stop that process. Finally, edit mup.js back to the new name and run ``mup deploy`` again, then run ``mup logs`` to ensure that everything is OK.
+
+## MongoDB database inspect and control
+Once you’ve deployed your Meteor application to Digital Ocean, one very important capability is to inspect the contents of the production database. A simple way to do this is to use Robo3T.
+
+We’ll assume in these instructions that you’ve deployed a copy of PMI to Digital Ocean following the instructions above.
+
+### 1. Install Robo3T
+The first step is to download and install <a href="https://robomongo.org/"> Robo3T </a> on your laptop. These instructions are for Studio 3T.
+
+### 2. Setup a connection
+After downloading and installing Robo3T, you must set up a connection that includes port forwarding to the production MongoDB service.
+
+First, create a new connection and choose manually configure connection setting and name it appropriately:
+<img src="./images/new-connection.png">
+
+Next, click on the “SSH” tab. Check the “Use SSH Tunnel” checkbox, then select “Password” as the SSH authorization method, then supply the IP address, “root” as the username, and the root password that you created in Digital Ocean:
+<img src="./images/ssh.png">
+
+You can click “Test Connection” to check your connection at this point. It should result in the following window:
+<img src="./images/test-connection.png">
+
+If everything is OK, then click Save, and now your connection should show up in the Connections panel:
+<img src="./images/connection-panel.png">
+
+### 3. Connect to the MongoDB database
+Once your connection is setup, double click to open a connection to the production database at Digital Ocean and display the contents:
+<img src="./images/database.png">
 
 ## Developers
 Here are the people who worked on this project:
