@@ -3,6 +3,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#project-development-history)
+* [Deploy the App](#deploy-the-app)
 * [Developers](#developers)
 
 ## Overview
